@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cafe App</string>
+
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="froyo">Froyo is premium self-serve frozen yoghurt</string>
+
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_message">You ordered an ice cream</string>
+    <string name="froyo_order_message">You ordered a Froyo.</string>
+
+    <string name="same_day_message_service">Same day messenger service.</string>
+    <string name="next_day_ground_delivery">Next day ground delivery.</string>
+    <string name="pick_up">Self Pick Up</string>
+    <string name="todo">TODO</string>
+    <string name="cafe_desserts">Cafe Desserts</string>
+    <string name="donut_are_glazed_and_sprinkled_with_candy">Donut are glazed and sprinkled with candy.</string>
+    <string name="ice_cream_sandwiches_have_chocolate_wafers_and_vanilla">Ice cream sandwiches have chocolate wafers and vanilla...</string>
+    <string name="froyo_is_premium_self_serve_frozen_yoghurt">Froyo is premium self-serve frozen yoghurt.</string>
+</resources>
